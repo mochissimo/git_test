@@ -1,0 +1,1 @@
+This is Maureen's first Git project!
